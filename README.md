@@ -1,4 +1,4 @@
-Should run on anything with python3 out of the box.
+Should run on anything with python3 out of the box. run with `python upload_file.py filename`
 
 Change the `API_KEY` global variable in `upload_file.py`.
 
